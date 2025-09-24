@@ -3,3 +3,7 @@ Research Paper Published in IEEE entitled "Innovative Approaches for Non-Intrusi
 
 
 <img width="1110" height="765" alt="Screenshot (763)" src="https://github.com/user-attachments/assets/bcde8b79-c627-4ff9-9148-4b5e7fba0531" />
+
+
+
+**IEEE_Xplore** https://ieeexplore.ieee.org/abstract/document/10965034 (Link)
